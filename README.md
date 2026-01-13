@@ -37,22 +37,7 @@ The **blood-brain barrier** is a selective membrane that protects the brain from
 
 ---
 
-##  Table of Contents
 
-- [Quick Start](#-quick-start)
-- [Dataset](#-dataset)
-- [Methodology](#-methodology)
-- [Results](#-results)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Details](#-model-details)
-- [Real Drug Predictions](#-real-drug-predictions)
-- [Performance Analysis](#-performance-analysis)
-- [Future Improvements](#-future-improvements)
-- [License](#-license)
-
----
 
 ## Quick Start
 
